@@ -1,0 +1,13 @@
+D:\Users\IvaSong\RRBull\rr-library\rr-library\bin\Debug\net8.0\rr-library.deps.json
+D:\Users\IvaSong\RRBull\rr-library\rr-library\bin\Debug\net8.0\rr-library.dll
+D:\Users\IvaSong\RRBull\rr-library\rr-library\bin\Debug\net8.0\rr-library.pdb
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\rr-library.csproj.AssemblyReference.cache
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\rr-library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\rr-library.AssemblyInfoInputs.cache
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\rr-library.AssemblyInfo.cs
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\rr-library.csproj.CoreCompileInputs.cache
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\rr-library.sourcelink.json
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\rr-library.dll
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\refint\rr-library.dll
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\rr-library.pdb
+D:\Users\IvaSong\RRBull\rr-library\rr-library\obj\Debug\net8.0\ref\rr-library.dll

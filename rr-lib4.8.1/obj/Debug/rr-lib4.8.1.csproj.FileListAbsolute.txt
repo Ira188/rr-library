@@ -1,0 +1,10 @@
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\bin\Debug\rr-lib4.8.1.dll
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\bin\Debug\rr-lib4.8.1.pdb
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\bin\Debug\MetaQuotes.MT5CommonAPI64.dll
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\bin\Debug\MetaQuotes.MT5WebAPI.dll
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\bin\Debug\Newtonsoft.Json.dll
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\obj\Debug\rr-lib4.8.1.csproj.AssemblyReference.cache
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\obj\Debug\rr-lib4.8.1.csproj.CoreCompileInputs.cache
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\obj\Debug\rr-lib4..5C2CB500.Up2Date
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\obj\Debug\rr-lib4.8.1.dll
+D:\Users\IvaSong\RRBull\rr-library\rr-lib4.8.1\obj\Debug\rr-lib4.8.1.pdb
